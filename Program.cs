@@ -44,7 +44,7 @@ internal class HDTP
         Console.WriteLine("\n ----------------------------------------------------------");
 
         ///// Ejercicio 2
-        Console.WriteLine("\n ---- Ejercicio 2 ----");
+        Console.WriteLine("\n ---- Ejercicio 3 ----");
         Inventario inventario = new Inventario();
 
         Console.WriteLine("\n ----- Agregar productos ----");
@@ -66,7 +66,7 @@ internal class HDTP
         Console.WriteLine("\n ----------------------------------------------------------");
 
         ///// Ejercicio 3
-        Console.WriteLine("\n ---- Ejercicio 3 ----");
+        Console.WriteLine("\n ---- Ejercicio 5 ----");
 
         Escuela escuela = new Escuela();
 
